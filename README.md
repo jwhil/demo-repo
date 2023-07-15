@@ -2,9 +2,6 @@
 
 This file has been *completely* created and uploaded from **_VScode_**.
 Hopefully if all goes to plan it has been uploaded on the day it was composed eek.
-```JavaScript
-console.log("Fingers Crossed!")
-```
 
 ## This is practice for creating new branches and commiting them from the text editor
 
